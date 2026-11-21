@@ -1,5 +1,7 @@
 # dsh-session-overview
 
+[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
+
 [English](README.md) | [中文](README.zh.md)
 
 A Web plugin for DeepSeek Harness (dsh). It adds an **Overview** tab to the session header: what a session did, and what it cost.
@@ -62,7 +64,3 @@ The package holds both halves: `index.js` registers the `sessionActivity` projec
 ## License
 
 MIT. See [LICENSE](LICENSE).
-
-[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
-
-[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)

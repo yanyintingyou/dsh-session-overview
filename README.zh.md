@@ -1,5 +1,7 @@
 # dsh-session-overview
 
+[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
+
 [English](README.md) | [中文](README.zh.md)
 
 给 DeepSeek Harness（dsh）的 Web 界面加一个「概览」标签页：一段会话里发生了什么、花了多少钱，都在这一页。
@@ -62,7 +64,3 @@
 ## 许可
 
 MIT，见 [LICENSE](LICENSE)。
-
-[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
-
-[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
