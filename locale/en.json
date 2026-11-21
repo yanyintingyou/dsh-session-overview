@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session overview",
+    "description": "Adds an Overview view tab to the session header: token composition and cache, context occupancy, model routes and cost (DeepSeek peak/off-peak rates), tool/MCP/plugin/skill calls with counts and time, subagents, failures and retries. Read-only figures from the session log, with no extra requests."
+  }
+}

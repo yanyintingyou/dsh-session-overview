@@ -1,0 +1,4 @@
+- insert:
+    - id: session-overview
+      name: '@local/dsh-session-overview'
+      config: {}
